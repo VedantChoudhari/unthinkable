@@ -7,7 +7,7 @@ from ast import literal_eval
 @st.cache_data
 def load_data(dataset_path):
     """
-    Load the dataset from the specified path.
+    Load the dataset from the specified pathh.
     
     Args:
         dataset_path (str): Path to the dataset file.

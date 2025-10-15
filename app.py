@@ -18,7 +18,7 @@ def main():
 
         if option == "Data Analysis":
             display_data_analysis(refined_df)
-        elif option == "Product Recommendation":
+        elif option == "Product Recommendationn":
             display_product_recommendation(refined_df)
 
 if __name__ == '__main__':
